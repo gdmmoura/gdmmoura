@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<ul>
+<li>😎 Olá, meu nome é Gustavo e eu estou estudando mais sobre o universo de Teste e Qualidade de Software.</li>
+<li>🤔 Meu primeiro contato com uma ferramenta de automação de teste foi com Selenium, onde usei para preencher formulários do Google forms de maneira repetida numa espécie de votação numa pesquisa.</li>
+<li>💼 Já trabalhei como suporte e desenvolvedeor na área de automação comercial e de produção calçadista. Sistemas de controle de estoque, financeiro, caixa, PDV, emissão de notas fiscais (SAT, NFCe, NFe), emissão de ficha de produção, controle de consumo de matérias-primas, etc.</li>
+<li>🐞 Já auxiliei nos testes de regressão quando um bug era corrigido, e também na triagem de outros bugs reportados pela equipe de suporte técnico.</li>
+<li>🏫 Estou aprendendo sobre Robot Framework e testes com API</li>
+</ul>
 
-😎 Olá, meu nome é Gustavo e eu estou estudando mais sobre o universo de Teste e Qualidade de Software.
-🤔 Meu primeiro contato com uma ferramenta de automação de teste foi com Selenium, onde usei para preencher formulários do Google forms de maneira repetida numa espécie de votação numa pesquisa.
-💼 Já trabalhei como suporte e desenvolvedeor na área de automação comercial e de produção calçadista. Sistemas de controle de estoque, financeiro, caixa, PDV, emissão de notas fiscais (SAT, NFCe, NFe), emissão de ficha de produção, controle de consumo de matérias-primas, etc.
-🐞 Já auxiliei nos testes de regressão quando um bug era corrigido, e também na triagem de outros bugs reportados pela equipe de suporte técnico.
-🏫 Estou aprendendo sobre Robot Framework e testes com API
 
